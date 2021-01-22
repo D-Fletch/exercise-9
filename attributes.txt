@@ -1,0 +1,3 @@
+name:helga
+defense: 50
+attack: 34
